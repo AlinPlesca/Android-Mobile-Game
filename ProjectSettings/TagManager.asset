@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectible
+  - KiwiCollectible
+  - Traps
+  - BoosterElements
+  - Platform
+  - DeathTrig
+  - AIwaypoints
+  - waypoints
+  - AIBat
+  - DoubleJump
+  - FireTrap
+  - Arrow
+  - Health
+  - StoneHead
+  - WinTrig
+  - NewTrampoline
+  - Melon
+  - Orange
+  - fallingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - playerLayer
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2865394619
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1978492731
+    locked: 0
